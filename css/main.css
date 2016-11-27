@@ -1,0 +1,47 @@
+.content{
+	text-align: center;
+}
+.weatherHead{
+	text-transform: uppercase;
+}
+.weatherInput{
+	width: 300px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+	border-radius: 3px;
+	border: 1px solid grey;
+	padding: 5px;
+}
+.weatherList{
+	width: 700px;
+	margin: 0 auto;
+	height: 200px;
+	position: relative;
+}
+.weatherItem{
+	display: inline-block;
+	width: 120px;
+	height: 180px;
+	background-color: #9FA7FF; 
+	margin: 10px;
+}
+
+.weatherFalse{
+	position: absolute;
+	font-size: 22px;
+	
+	font-weight: light;
+}
+
+.weatherHeader{
+	font-size: 24px;
+}
+.weatherImg{
+	width: 44px;
+	height: 44px;
+}
+
+.weatherTemp{
+	font-size: 26px;
+}
